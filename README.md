@@ -1,17 +1,20 @@
 This is a vibe coded project.
 It runs with python.
 
-Requirement:
+	Requirement:
+
 1.Administator permissions.
+
 2.Python 3.11.3 (Recommended)
-3.
+	
+	Instructions:
 
-This code is roughly coded. It might not work for everyone or every device. 
-I will update the code soon to make it runable.
-
-Instructions:
 1.Fork and clone the repositry. 
+
 2.Add pokemon images and name them as "target_1","target_2","target_3",etc.
+
 3.Open Command Prompt and do "pip install opencv-python numpy pyautogui keyboard". (Or skip these if you have already installed them.)
+
 4.Run Command Prompt as Adminstrator.
+
 5.Switch to the game.
