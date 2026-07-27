@@ -14,6 +14,6 @@ It runs with python.
 
 3.Open Command Prompt and do "pip install opencv-python numpy pyautogui keyboard". (Or skip these if you have already installed them.)
 
-4.Run Command Prompt as Adminstrator and do "python "PokeNexusAutoGrinderV0.1.3.py""
+4.Run Command Prompt as Adminstrator and do "python "PokeNexusAutoGrinderV0.1.2.py""
 
 5.Switch to the game.
