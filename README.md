@@ -6,6 +6,7 @@ It runs with python.
 1.Python 3.11.3 (Recommended)
 
 2.Add Python to your system's environment variables (Recommended)
+
 	Instructions:
 
 1.Fork and clone the repositry. 
