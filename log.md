@@ -7,3 +7,7 @@ Added new function that stop the game when the encountering a rare pokemon.
 ver0.1.2
 Implementing ROI to the code to improve code accuracy. 
 ----------------------------------------------------------------------------------------
+ver0.1.3
+Fixing the code implementing wrong logic on rare pokemon;
+improve efficiency by shrinking the ROI.
+----------------------------------------------------------------------------------------
