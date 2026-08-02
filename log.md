@@ -9,5 +9,5 @@ Implementing ROI to the code to improve code accuracy.
 ----------------------------------------------------------------------------------------
 ver0.1.3
 Fixing the code implementing wrong logic on rare pokemon;
-improve efficiency by shrinking the ROI.
+Improve efficiency by shrinking the ROI.
 ----------------------------------------------------------------------------------------
