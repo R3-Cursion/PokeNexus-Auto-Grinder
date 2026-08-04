@@ -13,4 +13,6 @@ It runs with python.
 
 2.Open Arduino IDE, on library, use the search bar, type and U8g2. Find the library named U8g2 (by oliver) and click Install. Then upload the code (arduinoCode) to your Arduino board.(It needs a screen to work. Me, myself is using an 1.3' OLED Display Module 1.3 inch White/ Blue OLED Display, and an Arduino UNO R3)
 
-3.Check if your board have received the message "Waiting for PC..." or "Loading Vision..." "Vision Ready."
+3.Check if your board have received the message "Waiting for PC..." or "Loading Vision..." "Vision Ready." 
+If the message "Waiting for PC..." appears, then it is either waiting for the program to run or maybe restart the program.
+If the message "Loading Vision..." "Vision Ready." appears,  then that means you board is ready to receive message.
