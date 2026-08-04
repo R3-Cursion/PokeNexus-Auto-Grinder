@@ -19,6 +19,8 @@ Instructions:
 
  (Or skip these if you have already installed them.)
 
-4.Run Command Prompt as Adminstrator and do "python PokeNexusAutoGrinderV0.1.3.py"
+4.Run Command Prompt as Adminstrator and do 
+
+	python PokeNexusAutoGrinderV0.1.5.py"
 
 5.Switch to the game.
