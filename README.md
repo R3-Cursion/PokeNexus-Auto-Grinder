@@ -5,7 +5,7 @@ Requirement:
 
 1.Python 3.11.3 (Recommended)
 
-2.Add Python to your system's environment variables (Recommended)
+2.Add Python to your system's environment variables 
 
 Instructions:
 
@@ -15,7 +15,7 @@ Instructions:
 
 3.Open Command Prompt and do 
 
-	pip install opencv-python numpy pyautogui keyboard
+	pip install opencv-python numpy pyautogui keyboard Pillow
 
  (Or skip these if you have already installed them.)
 
