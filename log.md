@@ -19,3 +19,6 @@ ver0.1.5
 Implementing GUI to lower the difficulty and complexity to use the program.
 Improved function by allowing users to define their grinding zone.
 ----------------------------------------------------------------------------------------
+ver0.1.6
+Added new functions that allows the user to catch/ignore unrecognized pokemon.
+----------------------------------------------------------------------------------------
