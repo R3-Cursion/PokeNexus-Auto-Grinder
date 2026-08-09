@@ -19,7 +19,7 @@ Instructions:
 
  (Or skip these if you have already installed them.)
 
-4.Run Command Prompt as Adminstrator and do 
+4.Run Command Prompt and do 
 
 	python PokeNexusAutoGrinderV0.1.6.py
 
